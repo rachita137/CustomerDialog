@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomerDialog</string>
+    <string name="tvs">Customer Alert Dialog</string>
+    <string name="click">click</string>
+    <string name="expended_list_view">expended_list_view</string>
+    <string name="alert">alert</string>
+</resources>
